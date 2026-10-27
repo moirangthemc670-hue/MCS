@@ -1,0 +1,9 @@
+Name,Age,Salary,Department,Experience
+Alice,25,50000,HR,2
+Bob,,60000,IT,3
+Charlie,30,,Finance,5
+David,200,70000,IT,10
+Eve,29,65000,,4
+Alice,25,50000,HR,2
+Frank,,80000,Finance,7
+George,33,72000,Marketing,6
